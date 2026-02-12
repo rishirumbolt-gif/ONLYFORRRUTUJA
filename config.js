@@ -1,11 +1,8 @@
-// ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
-// ============================================
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Rutuja",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -75,7 +72,7 @@ const CONFIG = {
 
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
-    music: {
+    music: {https://www.youtube.com/watch?v=SOJpE1KMUbo}
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
